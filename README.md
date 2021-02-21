@@ -1,1 +1,2 @@
 # RuntimeChangeFont
+本DEMO利用runtime的方法交换，可动态的根据屏幕尺寸修改字体大小。(包括xib或storyboard拖的控件)
